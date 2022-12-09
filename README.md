@@ -1,16 +1,16 @@
 # 🧰 Superenalotto Tools
 A simple utility for superenalotto.
 
-## 📃 Language: 
+### 📃 Language: 
 * Python 3.10.1
 
-## 💥 Functions:
+### 💥 Functions:
 * Print latest extraction.
 * View history of extraction.
 * Generate random number.
 * Calculation of winnings.
 
-## 💾 Setup:
+### 💾 Installation:
 ```
 git clone https://github.com/soleyman-src/superenalotto-tools.git
 ```
