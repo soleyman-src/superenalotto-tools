@@ -6,7 +6,9 @@ A simple utility for superenalotto.
 
 ## 💾 Setup:
 ```
+git clone https://github.com/soleyman-src/superenalotto-tools.git
+```
+
+```
 pip install -r requirements.txt
-or
-pip3 install -r requirements.txt
 ```
