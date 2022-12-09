@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+requests==2.27.1
+rich==12.6.0
+win32gui==221.6
